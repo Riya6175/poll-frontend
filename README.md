@@ -6,11 +6,11 @@ vote for your favourite candidates.
 view results
 
 # Validations
-only ids from 202012001 to 202012120 can vote without any login functionality
+* only ids from 202012001 to 202012120 can vote without any login functionality
 
-one student can give one vote 
+* one student can give one vote 
 
-you can view the result and vote summary. 
+* you can view the result and vote summary. 
 
 ## Available Scripts
 
