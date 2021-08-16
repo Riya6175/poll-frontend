@@ -1,9 +1,7 @@
 # poll-simulator
 This poll-simulator created in ReactJS.
 
-vote for your favourite candidates.
-
-view results
+vote for your favourite candidates and view results
 
 # Validations
 * only ids from 202012001 to 202012120 can vote without any login functionality
